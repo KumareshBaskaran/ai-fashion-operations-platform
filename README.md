@@ -347,6 +347,35 @@ SalesOrderItem
 
 Database schema changes are version controlled through migrations instead of modifying production databases manually.
 
+## Application Screenshots
+
+### Dashboard
+
+![Dashboard](docs/screenshots/dashboard.png)
+
+### Product Management
+
+![Products](docs/screenshots/products.png)
+
+### Purchase Orders
+
+![Purchase Orders](docs/screenshots/purchase-order-1.png)
+![Purchase Orders](docs/screenshots/purchase-order-2.png)
+
+
+
+### Sales Orders
+
+![Sales Orders](docs/screenshots/sales-order.png)
+
+### Reports & Analytics
+
+![Reports](docs/screenshots/reports.png)
+
+### Suppliers
+
+![Suppliers](docs/screenshots/suppliers.png)
+
 ---
 
 # AI Roadmap
